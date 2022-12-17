@@ -1,4 +1,4 @@
-# Project Title
+# Tugas Akhir Pemrograman Web Klp2
 
 Nama    : MUTIAH CHAERUNNISA
 
@@ -8,15 +8,19 @@ Kelas   : PEMROGRAMAN WEB C
 
 # Anggota Kelompok 2:
 
-MUTIAH CHAERUNNISA         (D121201064)
+Mutiah Chaerunnisa         (D121201064)
 
-PAULA CAROLYN CHUDORI      (D121201054)
+Paula Carolyn Chudori      (D121201054)
 
-AGUNAWAN ALI NUR           (D121201081)
+Agunawan Ali Nur           (D121201081)
 
-KELVIN MALA TAULA'BI'      (D121201098)
+Kelvin Mala Taula'Bi'      (D121201098)
 
-ANDI NURAINUN ANUGRAH.AR   (D121201073)
+Andi Nurainun Anugrah.AR   (D121201073)
+
+# Code Languages:
+
+HTML, CSS, PHP, JS, SQL
 
 # Preview Web
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/83875503/208248958-3efb2bf3-3f92-4c6c-ad47-b854b23280a6.png">
