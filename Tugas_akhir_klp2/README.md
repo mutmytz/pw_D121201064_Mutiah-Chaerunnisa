@@ -6,7 +6,7 @@ NIM     : D121201064
 
 Kelas   : PEMROGRAMAN WEB C
 
-Anggota Kelompok 2:
+# Anggota Kelompok 2:
 
 MUTIAH CHAERUNNISA         (D121201064)
 
